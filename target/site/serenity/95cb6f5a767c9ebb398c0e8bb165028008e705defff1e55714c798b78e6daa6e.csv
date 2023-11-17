@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Inicio de sesion Spotify","Inicio exitoso","SUCCESS","2023-11-10T16:52:12.383-05:00[America/Bogota]","0.0","0.32"
-"Buscar una cancion en Spotify","busqueda exitosa.","PENDING","2023-11-10T16:58:38.257-05:00[America/Bogota]","0.0","0.26"
+"Inicio de sesion Spotify","Inicio exitoso","ERROR","2023-11-15T18:04:50.211-05:00[America/Bogota]","0.0","0.26"
+"Buscar una cancion en Spotify","busqueda exitosa.","ERROR","2023-11-15T17:46:40.32-05:00[America/Bogota]","0.0","0.26"

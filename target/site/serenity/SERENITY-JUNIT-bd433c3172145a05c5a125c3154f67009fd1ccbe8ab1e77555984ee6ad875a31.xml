@@ -1,1 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Inicio de sesion Spotify" skipped="0" tests="1" time="0.32" timestamp="2023-11-10 04:52:12"><testcase name="Inicio exitoso"/></testsuite>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Inicio de sesion Spotify" skipped="0" tests="1" time="0.26" timestamp="2023-11-15 06:04:50"><testcase name="Inicio exitoso"><error message="No stage available - it looks like you haven't called the setTheStage() method before calling this one." type="net.serenitybdd.screenplay.actors.NoStageException">No stage available - it looks like you haven't called the setTheStage() method before calling this one.</error><system-err>No stage available - it looks like you haven't called the setTheStage() method before calling this one.&#13;
+com.spotify.stepDefinitions.LoginStepDefinition.queEstoyEnLaPaginaDeSpotify(LoginStepDefinition.java:22)&#13;
+✽.que estoy en la pagina de Spotify(file:///C:/Users/John/IdeaProjects/sesionAutomatizacion/src/test/resources/features/LoginExitoso.feature:8)&#13;
+</system-err></testcase></testsuite>

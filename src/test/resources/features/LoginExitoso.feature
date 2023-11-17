@@ -7,6 +7,7 @@
   Escenario: Inicio exitoso
     Dado que estoy en la pagina de Spotify
     Cuando ingreso mi usuario y clave
-      | Usuario | 12345678a |
+      | usuario | pass |
+      |Pepito   |12345678a|
     Entonces ingreso exitosamente al menu.
 
